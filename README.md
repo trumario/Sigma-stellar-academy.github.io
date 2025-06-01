@@ -1,4 +1,3 @@
-# Sigma-stellar-academy
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -127,8 +126,8 @@
     <div class="container">
         <div class="section" id="overview">
             <h2>Welcome to Physics!</h2>
-            <p>This year-long physics curriculum is designed for 13- and 15-year-old students to explore the wonders of physics through hands-on experiments, real-world connections, and fun projects. Spanning 36 weeks, it covers motion, energy, waves, and electricity with activities tailored to each age group.</p>
-            <p><strong>Goals</strong>: Build a strong foundation in physics, spark curiosity, and develop scientific thinking.</p>
+            <p>This year-long (36-week) physics curriculum is designed for 13- and 15-year-old students to explore physics through hands-on experiments, real-world connections, and fun projects. It covers motion, energy, waves, and electricity, with activities tailored to each age group.</p>
+            <p><strong>Goals</strong>: Build a strong physics foundation, spark curiosity, and develop scientific thinking.</p>
             <p><strong>How to Use This Guide</strong>:
                 <ul>
                     <li>Follow the weekly schedule (1-2 hours/week).</li>
@@ -146,10 +145,10 @@
             <div class="week">
                 <h3>Week 1: Introduction to Motion</h3>
                 <div class="week-details">
-                    <p><strong>Topics</strong>: Distance, speed, velocity.</p>
+                    <p><strong>Topics</strong>: What is physics? Distance, speed, velocity.</p>
                     <p><strong>Activity</strong>: Measure walking speed (distance/time) in a yard or hallway.</p>
                     <p><strong>For 15-year-olds</strong>: Learn about vectors (direction + magnitude).</p>
-                    <p><strong>Action</strong>: Discuss: How is walking different from running? Try measuring speeds!</p>
+                    <p><strong>Action</strong>: Walk a set distance, time it, and calculate speed. Discuss walking vs. running.</p>
                 </div>
             </div>
             <div class="week">
@@ -200,7 +199,7 @@
             <div class="week">
                 <h3>Week 7: Gravity</h3>
                 <div class="week-details">
-                    <p><strong>Topics</strong>: Gravity as a force.</p>
+                    <p><strong>Topics</strong>: Gravity as a force; universal gravitation basics.</p>
                     <p><strong>Experiment</strong>: Drop a feather vs. a coin. Compare fall rates.</p>
                     <p><strong>Action</strong>: Discuss why objects fall at the same rate (no air resistance).</p>
                 </div>
@@ -221,12 +220,69 @@
             <div class="week">
                 <h3>Week 9: What is Energy?</h3>
                 <div class="week-details">
-                    <p><strong>Topics</strong>: Kinetic and potential energy.</p>
-                    <p><strong>Activity</strong>: Lift a book to different heights.</p>
-                    <p><strong>Action</strong>: Discuss how height affects energy. Try it!</p>
+                    <p><strong>Topics</strong>: Kinetic and potential energy; energy conservation.</p>
+                    <p><strong>Activity</strong>: Lift a book to different heights to explore potential energy.</p>
+                    <p><strong>Action</strong>: Discuss how height affects energy. Try lifting objects!</p>
                 </div>
             </div>
-            <!-- Add remaining weeks (10-17) similarly -->
+            <div class="week">
+                <h3>Week 10: Work and Power</h3>
+                <div class="week-details">
+                    <p><strong>Topics</strong>: Work = force × distance; power = work/time.</p>
+                    <p><strong>Experiment</strong>: Lift objects and time it to calculate work and power.</p>
+                    <p><strong>For 15-year-olds</strong>: Solve W = 10 N × 2 m.</p>
+                    <p><strong>Action</strong>: Lift a book to a height, time it, and record observations.</p>
+                </div>
+            </div>
+            <div class="week">
+                <h3>Week 11: Mechanical Energy</h3>
+                <div class="week-details">
+                    <p><strong>Topics</strong>: Conservation of mechanical energy (kinetic + potential).</p>
+                    <p><strong>Experiment</strong>: Swing a pendulum (string with a weight) to observe energy transfer.</p>
+                    <p><strong>Action</strong>: Make a pendulum and watch energy switch between forms.</p>
+                </div>
+            </div>
+            <div class="week">
+                <h3>Week 12: Thermal Energy</h3>
+                <div class="week-details">
+                    <p><strong>Topics</strong>: Heat as energy transfer; temperature vs. heat.</p>
+                    <p><strong>Experiment</strong>: Heat water and measure temperature changes.</p>
+                    <p><strong>For 15-year-olds</strong>: Discuss specific heat qualitatively.</p>
+                    <p><strong>Action</strong>: Heat water safely (with adult supervision) and record temperatures.</p>
+                </div>
+            </div>
+            <div class="week">
+                <h3>Week 13: Other Forms of Energy</h3>
+                <div class="week-details">
+                    <p><strong>Topics</strong>: Chemical, electrical, nuclear energy.</p>
+                    <p><strong>Activity</strong>: Build a battery-powered circuit to see electrical energy.</p>
+                    <p><strong>Action</strong>: Use a battery, wires, and bulb to make a circuit.</p>
+                </div>
+            </div>
+            <div class="week">
+                <h3>Week 14: Energy Transformations</h3>
+                <div class="week-details">
+                    <p><strong>Topics</strong>: Energy changing forms (e.g., potential to kinetic).</p>
+                    <p><strong>Activity</strong>: Build a rubber-band-powered toy to show energy conversion.</p>
+                    <p><strong>Action</strong>: Create and test a rubber-band car or launcher.</p>
+                </div>
+            </div>
+            <div class="week">
+                <h3>Week 15: Efficiency</h3>
+                <div class="week-details">
+                    <p><strong>Topics</strong>: Energy loss in real-world systems.</p>
+                    <p><strong>Experiment</strong>: Compare efficiency of a lever vs. pulley (use string, weights).</p>
+                    <p><strong>Action</strong>: Set up a simple machine and discuss energy waste.</p>
+                </div>
+            </div>
+            <div class="week">
+                <h3>Week 16: Renewable vs. Nonrenewable Energy</h3>
+                <div class="week-details">
+                    <p><strong>Topics</strong>: Solar, wind, fossil fuels; pros and cons.</p>
+                    <p><strong>Activity</strong>: Research a renewable energy source.</p>
+                    <p><strong>Action</strong>: Write or present a short summary on solar or wind energy.</p>
+                </div>
+            </div>
             <div class="week">
                 <h3>Week 17: Unit Project</h3>
                 <div class="week-details">
@@ -243,12 +299,69 @@
             <div class="week">
                 <h3>Week 18: Introduction to Waves</h3>
                 <div class="week-details">
-                    <p><strong>Topics</strong>: Transverse vs. longitudinal waves.</p>
+                    <p><strong>Topics</strong>: Transverse vs. longitudinal waves; amplitude, frequency, wavelength.</p>
                     <p><strong>Activity</strong>: Create waves with a rope or slinky.</p>
                     <p><strong>Action</strong>: Try making waves and observe their shapes!</p>
                 </div>
             </div>
-            <!-- Add remaining weeks (19-26) similarly -->
+            <div class="week">
+                <h3>Week 19: Wave Speed</h3>
+                <div class="week-details">
+                    <p><strong>Topics</strong>: Speed = frequency × wavelength.</p>
+                    <p><strong>Experiment</strong>: Measure wave speed in a stretched spring or water tray.</p>
+                    <p><strong>For 15-year-olds</strong>: Solve v = fλ problems.</p>
+                    <p><strong>Action</strong>: Create waves in a tray of water and measure speed.</p>
+                </div>
+            </div>
+            <div class="week">
+                <h3>Week 20: Sound Waves</h3>
+                <div class="week-details">
+                    <p><strong>Topics</strong>: Sound as longitudinal waves; pitch and loudness.</p>
+                    <p><strong>Experiment</strong>: Use tuning forks or water glasses to explore pitch.</p>
+                    <p><strong>Action</strong>: Make sounds with glasses and note pitch changes.</p>
+                </div>
+            </div>
+            <div class="week">
+                <h3>Week 21: Doppler Effect</h3>
+                <div class="week-details">
+                    <p><strong>Topics</strong>: Change in pitch due to relative motion.</p>
+                    <p><strong>Activity</strong>: Listen to a moving sound source (e.g., toy siren).</p>
+                    <p><strong>Action</strong>: Discuss why ambulance sirens change pitch.</p>
+                </div>
+            </div>
+            <div class="week">
+                <h3>Week 22: Resonance</h3>
+                <div class="week-details">
+                    <p><strong>Topics</strong>: Amplification at natural frequencies.</p>
+                    <p><strong>Experiment</strong>: Blow across bottles with different water levels.</p>
+                    <p><strong>Action</strong>: Find resonant frequencies with bottles.</p>
+                </div>
+            </div>
+            <div class="week">
+                <h3>Week 23: Reflection and Refraction</h3>
+                <div class="week-details">
+                    <p><strong>Topics</strong>: How waves bounce or bend.</p>
+                    <p><strong>Experiment</strong>: Use a laser pointer and mirrors to show reflection.</p>
+                    <p><strong>For 15-year-olds</strong>: Discuss Snell’s Law qualitatively.</p>
+                    <p><strong>Action</strong>: Try reflecting light with mirrors.</p>
+                </div>
+            </div>
+            <div class="week">
+                <h3>Week 24: Interference</h3>
+                <div class="week-details">
+                    <p><strong>Topics</strong>: Constructive and destructive interference.</p>
+                    <p><strong>Activity</strong>: Create interference patterns in a water tray.</p>
+                    <p><strong>Action</strong>: Drop two objects in water and observe wave patterns.</p>
+                </div>
+            </div>
+            <div class="week">
+                <h3>Week 25: Applications of Sound</h3>
+                <div class="week-details">
+                    <p><strong>Topics</strong>: Ultrasound, sonar, musical instruments.</p>
+                    <p><strong>Activity</strong>: Research how bats use echolocation.</p>
+                    <p><strong>Action</strong>: Write or discuss a sound-based technology.</p>
+                </div>
+            </div>
             <div class="week">
                 <h3>Week 26: Unit Project</h3>
                 <div class="week-details">
@@ -270,11 +383,75 @@
                     <p><strong>Action</strong>: Try the balloon experiment and observe!</p>
                 </div>
             </div>
-            <!-- Add remaining weeks (28-36) similarly -->
+            <div class="week">
+                <h3>Week 28: Current Electricity</h3>
+                <div class="week-details">
+                    <p><strong>Topics</strong>: Electric current, circuits, conductors vs. insulators.</p>
+                    <p><strong>Activity</strong>: Build a simple circuit with a battery, wires, and bulb.</p>
+                    <p><strong>Action</strong>: Create a circuit and test it.</p>
+                </div>
+            </div>
+            <div class="week">
+                <h3>Week 29: Voltage and Resistance</h3>
+                <div class="week-details">
+                    <p><strong>Topics</strong>: Voltage as a push; resistance as opposition.</p>
+                    <p><strong>Experiment</strong>: Add bulbs to a circuit and observe brightness changes.</p>
+                    <p><strong>For 15-year-olds</strong>: Introduce Ohm’s Law (V = IR).</p>
+                    <p><strong>Action</strong>: Build a circuit and note brightness differences.</p>
+                </div>
+            </div>
+            <div class="week">
+                <h3>Week 30: Series and Parallel Circuits</h3>
+                <div class="week-details">
+                    <p><strong>Topics</strong>: Differences in current and voltage.</p>
+                    <p><strong>Experiment</strong>: Build series and parallel circuits; compare bulb brightness.</p>
+                    <p><strong>Action</strong>: Create both circuit types and observe differences.</p>
+                </div>
+            </div>
+            <div class="week">
+                <h3>Week 31: Magnetism</h3>
+                <div class="week-details">
+                    <p><strong>Topics</strong>: Magnetic fields, poles, and forces.</p>
+                    <p><strong>Experiment</strong>: Use magnets and iron filings to visualize fields.</p>
+                    <p><strong>Action</strong>: Sprinkle iron filings around a magnet and sketch the pattern.</p>
+                </div>
+            </div>
+            <div class="week">
+                <h3>Week 32: Electromagnetism</h3>
+                <div class="week-details">
+                    <p><strong>Topics</strong>: Electric currents creating magnetic fields.</p>
+                    <p><strong>Activity</strong>: Build an electromagnet with a nail, wire, and battery.</p>
+                    <p><strong>Action</strong>: Create and test an electromagnet (with supervision).</p>
+                </div>
+            </div>
+            <div class="week">
+                <h3>Week 33: Electromagnetic Induction</h3>
+                <div class="week-details">
+                    <p><strong>Topics</strong>: Moving magnets inducing current.</p>
+                    <p><strong>Experiment</strong>: Move a magnet through a coil to light an LED.</p>
+                    <p><strong>Action</strong>: Try inducing a current with a magnet and coil.</p>
+                </div>
+            </div>
+            <div class="week">
+                <h3>Week 34: Applications of Electricity and Magnetism</h3>
+                <div class="week-details">
+                    <p><strong>Topics</strong>: Motors, generators, transformers.</p>
+                    <p><strong>Activity</strong>: Research how a motor works in a household appliance.</p>
+                    <p><strong>Action</strong>: Write or discuss a real-world application.</p>
+                </div>
+            </div>
+            <div class="week">
+                <h3>Week 35: Safety with Electricity</h3>
+                <div class="week-details">
+                    <p><strong>Topics</strong>: Electrical hazards and safety measures.</p>
+                    <p><strong>Activity</strong>: Research electrical safety tips.</p>
+                    <p><strong>Action</strong>: List three safety rules for working with circuits.</p>
+                </div>
+            </div>
             <div class="week">
                 <h3>Week 36: Unit Project</h3>
                 <div class="week-details">
-                    <p><strong>Task</strong>: Build a simple motor or generator.</p>
+                    <p><strong>Task</strong>: Build a simple motor or generator model.</p>
                     <p><strong>For 15-year-olds</strong>: Explain energy conversions.</p>
                     <p><strong>Action</strong>: Build, test, and demo your model!</p>
                 </div>
@@ -318,3 +495,4 @@
     </script>
 </body>
 </html>
+```
