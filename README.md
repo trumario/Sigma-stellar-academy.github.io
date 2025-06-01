@@ -1,5 +1,4 @@
 # Sigma-stellar-academy.github.io
-Physics Curriculum 
 <!DOCTYPE html>
 <html lang="en">
 <head>
