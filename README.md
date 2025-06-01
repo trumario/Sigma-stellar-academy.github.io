@@ -1,4 +1,4 @@
-# Sigma-stellar-academy.github.io
+# Sigma-stellar-academy
 <html lang="en">
 <head>
     <meta charset="UTF-8">
