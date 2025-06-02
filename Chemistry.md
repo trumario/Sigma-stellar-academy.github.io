@@ -175,7 +175,7 @@
         <li><strong>How to Help</strong>: Encourage your teen to complete weekly tasks, try quizzes, and discuss chemistry in daily life (e.g., cooking).</li>
         <li><strong>Outcomes</strong>: Prepares teens for high school chemistry, biology, and careers in science, medicine, or engineering.</li>
       </ul>
-      <p>Contact the teacher via email (<a href="mailto:contact@example.com" class="text-blue-600 hover:underline">contact@example.com</a>) for questions.</p>
+      <p>Contact the teacher via email (<a href="mailto: chemistry@sigmastellar.com" class="text-blue-600 hover:underline">contact@example.com</a>) for questions.</p>
     </div>
   </section>
 
