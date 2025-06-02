@@ -1,3 +1,5 @@
+```html
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -119,6 +121,7 @@
             <li><a href="#unit2">Energy & Work</a></li>
             <li><a href="#unit3">Waves & Sound</a></li>
             <li><a href="#unit4">Electricity & Magnetism</a></li>
+            <li><a href="./Chemistry.html">Chemistry</a></li>
             <li><a href="#resources">Resources</a></li>
             <li><a href="#safety">Safety</a></li>
         </ul>
@@ -126,7 +129,7 @@
     <div class="container">
         <div class="section" id="overview">
             <h2>Welcome to Physics!</h2>
-            <p>This year-long (36-week) physics curriculum is designed for 13- and 15-year-old students to explore physics through hands-on experiments, real-world connections, and fun projects. It covers motion, energy, waves, and electricity, with activities tailored to each age group.</p>
+            <p>This year-long (36-week) physics curriculum is designed for 13- and 15-year-old students to explore physics through hands-on experiments, real-world connections, and fun projects. It covers motion, energy, waves, and electricity, with activities tailored to each age group. Also, check out our <a href="./Chemistry.html">Chemistry Curriculum</a> for more exciting science adventures!</p>
             <p><strong>Goals</strong>: Build a strong physics foundation, spark curiosity, and develop scientific thinking.</p>
             <p><strong>How to Use This Guide</strong>:
                 <ul>
@@ -495,4 +498,3 @@
     </script>
 </body>
 </html>
-```
