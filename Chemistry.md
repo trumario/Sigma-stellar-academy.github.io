@@ -1,3 +1,4 @@
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -23,6 +24,7 @@
       <a href="#students" class="hover:underline">For Students</a>
       <a href="#quiz" class="hover:underline">Quiz</a>
       <a href="#parents" class="hover:underline">For Parents</a>
+      <a href="./physics_curriculum.html" class="hover:underline">Physics</a>
       <a href="#resources" class="hover:underline">Resources</a>
     </div>
   </nav>
@@ -30,7 +32,7 @@
   <!-- Welcome Section -->
   <section id="welcome" class="py-10 container mx-auto px-4">
     <h2 class="text-2xl font-bold mb-4">Welcome to Chemistry!</h2>
-    <p class="text-lg mb-4">This webpage is your hub for the 8th-9th grade chemistry curriculum. Students, dive into atoms, reactions, and real-world science! Parents, learn how this course sparks curiosity and prepares your teen for high school.</p>
+    <p class="text-lg mb-4">This webpage is your hub for the 8th-9th grade chemistry curriculum. Students, dive into atoms, reactions, and real-world science! Parents, learn how this course sparks curiosity and prepares your teen for high school. Also, explore our <a href="./physics_curriculum.html" class="text-blue-600 hover:underline">Physics Curriculum</a> for more science fun!</p>
     <img src="https://images.unsplash.com/photo-1621293954908-907159247272?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&h=300&q=80" alt="Chemistry Lab" class="w-full h-64 object-cover rounded-lg mb-4">
   </section>
 
@@ -173,7 +175,7 @@
         <li><strong>How to Help</strong>: Encourage your teen to complete weekly tasks, try quizzes, and discuss chemistry in daily life (e.g., cooking).</li>
         <li><strong>Outcomes</strong>: Prepares teens for high school chemistry, biology, and careers in science, medicine, or engineering.</li>
       </ul>
-      <p>Contact the teacher via email (placeholder@example.com) for questions.</p>
+      <p>Contact the teacher via email (<a href="mailto:contact@example.com" class="text-blue-600 hover:underline">contact@example.com</a>) for questions.</p>
     </div>
   </section>
 
