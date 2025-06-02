@@ -33,7 +33,7 @@
   <section id="welcome" class="py-10 container mx-auto px-4">
     <h2 class="text-2xl font-bold mb-4">Welcome to Chemistry!</h2>
     <p class="text-lg mb-4">This webpage is your hub for the 8th-9th grade chemistry curriculum. Students, dive into atoms, reactions, and real-world science! Parents, learn how this course sparks curiosity and prepares your teen for high school. Also, explore our <a href="./physics_curriculum.html" class="text-blue-600 hover:underline">Physics Curriculum</a> for more science fun!</p>
-    <img src="https://images.unsplash.com/photo-1621293954908-907159247272?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&h=300&q=80" alt="Chemistry Lab" class="w-full h-64 object-cover rounded-lg mb-4">
+    <img src="https://unsplash.com/photos/3d-illustration-molecules-atoms-bacgkround-medical-background-for-banner-or-flyer-molecular-structure-at-the-atomic-level-W9KNSN6VN1s">
   </section>
 
   <!-- Curriculum Overview -->
